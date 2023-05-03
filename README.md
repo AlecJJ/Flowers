@@ -1,5 +1,5 @@
 # Flowers
-<img src="https://www.costafarms.com/images/SlideShow/1-Pentas-Falling-Star-Bicolor---Flowers-for-Florida---Costa-Farms.jpg" width="500">
+<img src="https://a-z-animals.com/media/2022/09/shutterstock_2176779373.jpg" width="500">
 Sorting flowers using AlexNet involves training a deep neural network on a large dataset of flower images, using the architecture of AlexNet, which is a convolutional neural network (CNN) designed for image classification tasks. The following is a general outline of the process:
 
 Dataset Preparation: Collect a large dataset of flower images, divided into training, validation, and testing sets. Each image should be labeled with the correct flower species.
